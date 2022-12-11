@@ -1,0 +1,49 @@
+.redesSociais {
+  align-items: center;
+  background-color: #141414;
+  display: flex;
+  font-size: 12px;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+.redesSociais > a > img { 
+  width: 30px;
+}
+
+.redesSociais > a > img:hover { 
+  transition: cubic-bezier(0.39, 0.575, 0.565, 1);
+  width: 32px;
+}
+
+.section-redesSociais {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.contato {
+  color: #000;
+  margin: 0;
+  width: 210px;
+}
+
+.fonte a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.netflix, a {
+  color: #FFF;
+  padding-left: 10px;
+  text-decoration: none;
+}
+
+.netflix > a:hover, .fonte > a:hover {
+  color: #D91821;
+}
+
+@media (max-width: 760px) {
+  .netflix, .fonte {
+    font-size: 8px;
+  }
+}
