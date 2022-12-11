@@ -6,14 +6,14 @@ Acesse aqui 🍿 [Netflix](https://netflix-vn.netlify.app/) ✅
 
 ---
 ### 💡 Conhecimentos aplicados:
-- HTML 
-- CSS
-- React
+- Html5 
+- Css3
+- React.js
 - JavaScript
 - API Request
 - Manipulação da biblioteca [Material/ui](https://mui.com/material-ui/)
 ---
-### 👨🏼‍💻 Dados utilizados:
+###  💻 Dados utilizados:
 Fonte: [Tmdb](https://www.themoviedb.org/)
 
 ---
