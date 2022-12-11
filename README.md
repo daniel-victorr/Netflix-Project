@@ -1,4 +1,5 @@
-## Projeto Netflix 🍿
+## Projeto Netflix 🍿 
+<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
 ---
 Acesse aqui 🍿 [Netflix](https://netflix-vn.netlify.app/) ✅
 
