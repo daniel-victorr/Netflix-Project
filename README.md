@@ -1,7 +1,10 @@
-## Projeto Netflix 🍿 
-<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
+
+<div align = "center">
+ <img src="https://user-images.githubusercontent.com/96880351/206916824-1d7005fe-0322-461f-83e8-46fa9a8e731d.png"/>
+</div>
+
 ---
-Acesse aqui 🍿 [Netflix](https://netflix-vn.netlify.app/) ✅
+ <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> 
 
 
 ---
