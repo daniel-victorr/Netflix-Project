@@ -27,6 +27,7 @@ class RedesSociais extends React.Component {
             > 🔗 The Moviedb
             </a>
           </p>
+
           <p className="netflix">
             Todos os direitos reservados a
             <a
@@ -36,6 +37,7 @@ class RedesSociais extends React.Component {
             > 🔗 Netflix
             </a>
           </p>
+
         </section>
       </section>
     );
